@@ -9,11 +9,12 @@ Accelerating colombian farmers entry to the cannabis industry through blockchain
 <p>
 ---
 ## Relevant links
+
 | What? | Link |
 |---|---|
 | StarkNet contract address | https://goerli.voyager.online/contract/0x06d7ef2609d14ff261040ac30c82b5627f58cbb26ec057bef23cbebbd2c95326#writeContract |
 | Landing Page | https://www.figma.com/proto/gipiEHPom58Bpw6pHrm1aM/ETH?embed_host=share&kind=&node-id=1%3A24&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=1%3A24&viewport=2759%2C1739%2C0.41 |
-| Slides (problem, solution, etc) | https://docs.google.com/presentation/d/1Qb0-Adhl0tIcPKPKoDu0FZ8MHMeseHcDzMIjF6Ov7z8/edit#slide=id.g1415a9c1b34_0_15 |
+| Slides | https://docs.google.com/presentation/d/1Qb0-Adhl0tIcPKPKoDu0FZ8MHMeseHcDzMIjF6Ov7z8/edit#slide=id.g1415a9c1b34_0_15 |
 
 
 <p align="center">
@@ -27,8 +28,6 @@ Accelerating colombian farmers entry to the cannabis industry through blockchain
     <img src="imgs/solution.jpeg" width="500"/>
     <br>
 <p>
-
-
 
 
 ---
