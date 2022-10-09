@@ -1,13 +1,37 @@
+#  Cosecha
+
+Accelerating colombian farmers entry to the cannabis industry through blockchain validation.
+
+<p align="center">
+    <br>
+    <img src="imgs/landing.png" width="500"/>
+    <br>
+<p>
+
+## Relevant links
+
+| What? | Link |
+|---|---|
+| StarkNet contract address | https://goerli.voyager.online/contract/0x06d7ef2609d14ff261040ac30c82b5627f58cbb26ec057bef23cbebbd2c95326#writeContract |
+| Landing Page | https://www.figma.com/proto/gipiEHPom58Bpw6pHrm1aM/ETH?embed_host=share&kind=&node-id=1%3A24&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=1%3A24&viewport=2759%2C1739%2C0.41 |
+| Subgraph | https://thegraph.com/hosted-service/subgraph/haycarlitos/cosecha |
+| Slides | https://docs.google.com/presentation/d/1Qb0-Adhl0tIcPKPKoDu0FZ8MHMeseHcDzMIjF6Ov7z8/edit#slide=id.g1415a9c1b34_0_15 |
 
 
-## Proceso
-1. Persona que quiere tramitar su licencia para marihuana sube inicia sesión con su wallet.
-2. Sube su documento y se firma con la wallet. El documento queda guardado con IPFS.
-3. Este documento puede ser buscando posteriormente. 
-4. Cuando tenga su licencia por parte del gobierno, se sube la licencia.
-5. Es importante tener un catalogo adecuado de quien tiene licencia.
+<p align="center">
+    <br>
+    <img src="imgs/problem.jpeg" width="500"/>
+    <br>
+<p>
 
-## Lógica del smart contract
+<p align="center">
+    <br>
+    <img src="imgs/solution.jpeg" width="500"/>
+    <br>
+<p>
+
+
+## Lógica del smart contract en StarkNet
 
 ### Core
 1. Inicialización del contrato. 
@@ -22,6 +46,6 @@
 4. Con el getter `get_user_info(address: felt) -> (info: UserInfo)` se puede obtener la información del usuario. Para simplicidad, el getter `get_already_approved(address: felt) -> (is_approved: felt, is_collaborating: felt)` indica si el usuario ya fue aprobado para operar y si acepta colaboraciones.
 
 
-### Additional
+### TODO
 5. Capacidad de inicializar un documento indicando el sitio en IPFS donde se encuentra.
 6. Se llama la función, who_collaborating() -> (len: felt, users_collaborating: felt*) para leer una storage variable donde se mantienen los usuarios que aceptan colaborar.
