@@ -7,7 +7,7 @@ Accelerating colombian farmers entry to the cannabis industry through blockchain
     <img src="imgs/landing.png" width="500"/>
     <br>
 <p>
----
+
 ## Relevant links
 
 | What? | Link |
@@ -30,7 +30,6 @@ Accelerating colombian farmers entry to the cannabis industry through blockchain
 <p>
 
 
----
 ## Lógica del smart contract en StarkNet
 
 ### Core
