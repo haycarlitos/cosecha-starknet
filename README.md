@@ -1,4 +1,10 @@
 
+<p align="center">
+    <br>
+    <img src="imgs/logo.jpeg" width="200"/>
+    <br>
+<p>
+
 
 ## Proceso
 1. Persona que quiere tramitar su licencia para marihuana sube inicia sesión con su wallet.
