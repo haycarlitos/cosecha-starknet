@@ -2,6 +2,11 @@
 
 Accelerating colombian farmers entry to the cannabis industry through blockchain validation.
 
+<p align="center">
+    <br>
+    <img src="imgs/landing.png" width="500"/>
+    <br>
+<p>
 ---
 ## Relevant links
 | What? | Link |
@@ -10,12 +15,6 @@ Accelerating colombian farmers entry to the cannabis industry through blockchain
 | Landing Page | https://www.figma.com/proto/gipiEHPom58Bpw6pHrm1aM/ETH?embed_host=share&kind=&node-id=1%3A24&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=1%3A24&viewport=2759%2C1739%2C0.41 |
 | Slides (problem, solution, etc) | https://docs.google.com/presentation/d/1Qb0-Adhl0tIcPKPKoDu0FZ8MHMeseHcDzMIjF6Ov7z8/edit#slide=id.g1415a9c1b34_0_15 |
 
-
-<p align="center">
-    <br>
-    <img src="imgs/landing.png" width="500"/>
-    <br>
-<p>
 
 <p align="center">
     <br>
