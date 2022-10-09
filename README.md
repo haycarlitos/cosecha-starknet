@@ -1,18 +1,18 @@
 
 <p align="center">
     <br>
-    <img src="imgs/logo.jpeg" width="200"/>
+    <img src="imgs/logo.jpeg" width="100"/>
+    <br>
+<p>
+
+<p align="center">
+    <br>
+    <img src="imgs/landing.png" width="400"/>
     <br>
 <p>
 
 
-## Proceso
-1. Persona que quiere tramitar su licencia para marihuana sube inicia sesión con su wallet.
-2. Sube su documento y se firma con la wallet. El documento queda guardado con IPFS.
-3. Este documento puede ser buscando posteriormente. 
-4. Cuando tenga su licencia por parte del gobierno, se sube la licencia.
-5. Es importante tener un catalogo adecuado de quien tiene licencia.
-
+---
 ## Lógica del smart contract
 
 ### Core
@@ -28,6 +28,6 @@
 4. Con el getter `get_user_info(address: felt) -> (info: UserInfo)` se puede obtener la información del usuario. Para simplicidad, el getter `get_already_approved(address: felt) -> (is_approved: felt, is_collaborating: felt)` indica si el usuario ya fue aprobado para operar y si acepta colaboraciones.
 
 
-### Additional
+### TODO
 5. Capacidad de inicializar un documento indicando el sitio en IPFS donde se encuentra.
 6. Se llama la función, who_collaborating() -> (len: felt, users_collaborating: felt*) para leer una storage variable donde se mantienen los usuarios que aceptan colaborar.
