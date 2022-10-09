@@ -25,11 +25,11 @@ struct UserInfo {
     accepting_collaborations: felt,
 }
 
-struct ReadyToCollab {
-    len : felt,
-    id_cedulas: felt*,
+// struct ReadyToCollab {
+//     len : felt,
+//     id_cedulas: felt*,
 
-}
+// }
 
 // ------
 // Storage
@@ -51,9 +51,9 @@ func address_to_user_info(address: felt) -> (user_info: UserInfo) {
 // func len_current_ready_to_collab() -> (res: felt) {
 // }
 
-@storage_var
-func current_ready_to_collab() -> (res: ReadyToCollab) {
-}
+// @storage_var
+// func current_ready_to_collab() -> (res: ReadyToCollab) {
+// }
 
 
 
