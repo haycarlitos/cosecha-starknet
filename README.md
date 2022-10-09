@@ -1,19 +1,29 @@
 
 <p align="center">
     <br>
-    <img src="imgs/logo.jpeg" width="100"/>
+    <img src="imgs/landing.png" width="500"/>
     <br>
 <p>
 
 <p align="center">
     <br>
-    <img src="imgs/landing.png" width="400"/>
+    <img src="imgs/problem.jpeg" width="500"/>
+    <br>
+<p>
+
+<p align="center">
+    <br>
+    <img src="imgs/solution.jpeg" width="500"/>
     <br>
 <p>
 
 
 ---
-## Lógica del smart contract
+## Relevant links
+
+
+--
+## Lógica del smart contract en StarkNet
 
 ### Core
 1. Inicialización del contrato. 
