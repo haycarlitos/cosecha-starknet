@@ -1,5 +1,6 @@
-#  Cosecha: Accelerating colombian farmers entry to the cannabis industry through blockchain validation.
+#  Cosecha
 
+Accelerating colombian farmers entry to the cannabis industry through blockchain validation.
 
 ---
 ## Relevant links
